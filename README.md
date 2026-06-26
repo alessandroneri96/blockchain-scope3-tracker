@@ -210,13 +210,3 @@ If you use this code in academic work, please cite:
 
 See [LICENSE](LICENSE) for full terms.
 
----
-
-## Funding
-
-This project was partially funded under the National Recovery and Resilience Plan (NRRP), Mission 04 Component 2 Investment 1.5 — NextGenerationEU (Award No. 0001052, 23 June 2022), and partially by ESF REACT-EU — PON "Ricerca e Innovazione" 2014–2020 (DM 1062, 10 August 2021).
-
----
-
-*University of Bologna — Department of Industrial Engineering*
-*University of Modena and Reggio Emilia — Department of Sciences and Methods for Engineering*
